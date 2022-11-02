@@ -4,7 +4,7 @@ pygame.mixer.init()
 pygame.init()
 pygame.image.load("/Users/grahamfielding/Desktop/pygame files/image1.jpeg")
 pygame.mixer.music.load("/Users/grahamfielding/Desktop/pygame files/fart.mp3")
-#pygame.mixer.music.play()
+pygame.mixer.music.play()
 rectVel = 10
 rectX = 100
 rectY = 100

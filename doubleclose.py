@@ -8,7 +8,6 @@ if weirdLol == 0.30000000000000004:
 print(weirdLol)
 print("Playing random number guessing game!")
 
-
 while playing:
     p1Guess = int(input("Player 1 enter your guess! \n"))
     p2Guess = int(input("Player 2 enter your guess! \n"))

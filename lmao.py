@@ -1,6 +1,5 @@
 import pygame
 
-
 pygame.mixer.init()
 pygame.init()
 pygame.image.load("/Users/grahamfielding/Desktop/pygame files/image1.jpeg")

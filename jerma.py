@@ -25,4 +25,3 @@ while running:
         pygame.mixer.music.load("/Users/grahamfielding/Desktop/pygame files/saul.mp3")
         pygame.mixer.music.play()
         balls = False
-
